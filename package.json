@@ -1,0 +1,22 @@
+{
+  "name": "isemail",
+  "version": "1.0.0",
+  "description": "isemailpackage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pritamdharme/isemailpackage.git"
+  },
+  "keywords": [
+    "isemail"
+  ],
+  "author": "pritam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pritamdharme/isemailpackage/issues"
+  },
+  "homepage": "https://github.com/pritamdharme/isemailpackage#readme"
+}
